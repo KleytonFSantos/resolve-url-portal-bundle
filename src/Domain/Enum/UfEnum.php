@@ -1,4 +1,5 @@
 <?php
+namespace ResolverUrlPortal\Domain\Enum;
 
 enum UfEnum: string
 {
